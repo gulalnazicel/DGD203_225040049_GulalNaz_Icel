@@ -1,0 +1,14 @@
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.AssemblyInfoInputs.cache
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.AssemblyInfo.cs
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.csproj.CoreCompileInputs.cache
+C:\Users\hpvic\source\repos\DGD203\bin\Debug\net8.0\DGD203.exe
+C:\Users\hpvic\source\repos\DGD203\bin\Debug\net8.0\DGD203.deps.json
+C:\Users\hpvic\source\repos\DGD203\bin\Debug\net8.0\DGD203.runtimeconfig.json
+C:\Users\hpvic\source\repos\DGD203\bin\Debug\net8.0\DGD203.dll
+C:\Users\hpvic\source\repos\DGD203\bin\Debug\net8.0\DGD203.pdb
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.dll
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\refint\DGD203.dll
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.pdb
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\DGD203.genruntimeconfig.cache
+C:\Users\hpvic\source\repos\DGD203\obj\Debug\net8.0\ref\DGD203.dll
